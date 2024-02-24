@@ -6,7 +6,7 @@ You CAN find a playlist of videos about git by [link](https://www.youtube.com/wa
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 * React (JSX):
-Import React from 'react';
+Import React from 'React';
 
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
