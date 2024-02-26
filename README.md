@@ -5,7 +5,7 @@ You CAN find a playlist of videos about git by [link](https://www.youtube.com/wa
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
-* React (JSX):
+* Reacts (JSX):
 Import React from 'React';
 
 function Welcome(props) {
